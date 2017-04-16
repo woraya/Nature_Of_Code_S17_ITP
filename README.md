@@ -1,2 +1,5 @@
 # Nature_Of_Code_S17_ITP
-Repository for Nature of Code class assignments p5.js sketches
+This repository is for Nature of Code class assignments p5.js sketches.
+
+ITP, NYU
+Spring 2017
